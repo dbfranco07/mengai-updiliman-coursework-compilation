@@ -1,2 +1,4 @@
 .claude
+.env
+.venv
 .python-version

@@ -1,7 +1,7 @@
 [project]
 name = "mengai-updiliman-coursework-compilation"
 version = "0.1.0"
-description = "Add your description here"
+description = "A repo that shares my personal experience and outputs of the Master of Engineering in Artificial Intelligence postgraduate program of the University of the Philippines Diliman."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = []
