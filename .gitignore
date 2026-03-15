@@ -2,3 +2,25 @@
 .env
 .venv
 .python-version
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data/model files
+*.csv
+*.h5
+*.pkl
+*.npy
+*.pt
+*.pth
+*.onnx
+data/
+
+# OS
+.DS_Store
+Thumbs.db
