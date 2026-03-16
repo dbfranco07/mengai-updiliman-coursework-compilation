@@ -48,19 +48,19 @@ I would say this is one of those courses that truly tests how much you want to b
 **Programming Assignments:**  
 Note: I did not get perfect scores here. I had a few mistakes on each assignment (maybe around 5-10 deducted points) so read with a grain of salt.
 - Programming Assignment 1 - Implementing the A* Algorithm
-  - [Code](AI-201/notebooks/a_star_implementation.ipynb)
+  - [Notebook](AI-201/notebooks/a_star_implementation.ipynb)
 - Programming Assignment 2 - Naive Bayes Spam Filter
-  - [Code](AI-201/noteooks/naive_bayes_spam_filter.ipynb)
+  - [Notebook](AI-201/noteooks/naive_bayes_spam_filter.ipynb)
   - [Paper](AI-201/papers/PA2_Report.pdf)
 - Programming Assignment 3 - Implementing the Backpropagation Algorithm
-  - [Code 1](AI-201/notebooks/neural-network-class.ipynb)
-  - [Code 2](AI-201/notebooks/generate-balanced-data-using-SMOTE.ipynb)
+  - [Notebook 1](AI-201/notebooks/neural-network-class.ipynb)
+  - [Notebook 2](AI-201/notebooks/generate-balanced-data-using-SMOTE.ipynb)
   - [Paper](AI-201/papers/PA3_Report.pdf)
 - Programming Assignment 4 - Comparison of Boosted Perceptrons and SVM
-  - [Code](AI-201/notebooks/boosted_perceptrons_and_svm.ipynb)
+  - [Notebook](AI-201/notebooks/boosted_perceptrons_and_svm.ipynb)
   - [Paper](AI-201/papers/PA4_Report.pdf)
 - Mini-Project - Optimizing Classification Capability of Classical Machine Learning Models on Traffic Signs
-  - [Code](AI-201/notebooks/traffic-signs.ipynb)
+  - [Notebook](AI-201/notebooks/traffic-signs.ipynb)
   - [Paper](AI-201/papers/Optimizing%20Classification%20Capability%20of%20Classical%20Machine%20Learning%20Models%20on%20Traffic%20Signs.pdf)
   - [Slides](AI-201/slides/Optimizing%20Classification%20Capability%20of%20Classical%20Machine.pptx)
 
@@ -82,7 +82,7 @@ The problem sets were also difficult but actually fun. They required us to write
 **Problem Set:**
 
 - [Notebook](AI-211/AI211_probset.ipynb)
-- [Source Code](AI-211/ai211.py)
+- [Source/Reference Code](AI-211/ai211.py)
 - [Documentation](AI-211/AI211%20Problem%20Set%20Documentation.pdf)
 
 ---
@@ -104,7 +104,13 @@ The approach of this course is genuinely demanding. While it provides a vital fo
 
 **Problem Set:**
 
-- TBA
+- Problem Set 1 (Group)
+  - [Problem 1 Notebook](AI-212/notebooks/AI212_S2_Problem_1.ipynb)
+  - [Problem 2 Notebook](AI-212/notebooks/AI212_S2_Problem_2.ipynb)
+  - [Problem 3 Notebook](AI-212/notebooks/AI212_S2_Problem_3.ipynb)
+  - [Problem 4 Notebook](AI-212/notebooks/AI212_S2_Problem_4.ipynb)
+- Problem Set 2 (Solo)
+  - [Problem Notebook](AI-212/notebooks/ai212_probset.ipynb)
 
 ---
 
