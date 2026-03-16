@@ -45,9 +45,9 @@ I would say this is one of those courses that truly tests how much you want to b
 - Basic Computer Science Concepts and introduction to machine learning.
 
 
-**Programming Assignments:**
-
-- [Programming Assignment 1 - Implementing the A* Algorithm]
+**Programming Assignments:**  
+Note: I did not get perfect scores here. I had a few mistakes on each assignment (maybe around 5-10 deducted points) so read with a grain of salt.
+- Programming Assignment 1 - Implementing the A* Algorithm
   - [Code](AI-201/notebooks/a_star_implementation.ipynb)
 - Programming Assignment 2 - Naive Bayes Spam Filter
   - [Code](AI-201/noteooks/naive_bayes_spam_filter.ipynb)
