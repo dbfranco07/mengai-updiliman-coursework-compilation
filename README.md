@@ -20,6 +20,7 @@ Hello! Welcome to this repository where I share my personal experiences, opinion
 - [License](#license)
 - [Star](#star)
 
+
 ## Background
 
 Just to share some context with everyone: my undergraduate background is in Aeronautical Engineering, and I had never written any production-level code before this. Prior to enrolling in the program, my experience with AI and machine learning was very minimal—essentially negligible. However, as I’ve progressed through the different courses and collaborated with my fellow students, I have been able to gain invaluable knowledge relevant to the development of AI.
@@ -46,11 +47,22 @@ I would say this is one of those courses that truly tests how much you want to b
 
 **Programming Assignments:**
 
-- Programming Assignment 1 - Implementing the A* Algorithm
+- [Programming Assignment 1 - Implementing the A* Algorithm]
+  - [Code](AI-201/notebooks/a_star_implementation.ipynb)
 - Programming Assignment 2 - Naive Bayes Spam Filter
+  - [Code](AI-201/noteooks/naive_bayes_spam_filter.ipynb)
+  - [Paper](AI-201/papers/PA2_Report.pdf)
 - Programming Assignment 3 - Implementing the Backpropagation Algorithm
+  - [Code 1](AI-201/notebooks/neural-network-class.ipynb)
+  - [Code 2](AI-201/notebooks/generate-balanced-data-using-SMOTE.ipynb)
+  - [Paper](AI-201/papers/PA3_Report.pdf)
 - Programming Assignment 4 - Comparison of Boosted Perceptrons and SVM
+  - [Code](AI-201/notebooks/boosted_perceptrons_and_svm.ipynb)
+  - [Paper](AI-201/papers/PA4_Report.pdf)
 - Mini-Project - Optimizing Classification Capability of Classical Machine Learning Models on Traffic Signs
+  - [Code](AI-201/notebooks/traffic-signs.ipynb)
+  - [Paper](AI-201/papers/Optimizing%20Classification%20Capability%20of%20Classical%20Machine%20Learning%20Models%20on%20Traffic%20Signs.pdf)
+  - [Slides](AI-201/slides/Optimizing%20Classification%20Capability%20of%20Classical%20Machine.pptx)
 
 
 ---
