@@ -81,7 +81,9 @@ The problem sets were also difficult but actually fun. They required us to write
 
 **Problem Set:**
 
-- TBA
+- [Notebook](AI-211/AI211_probset.ipynb)
+- [Source Code](AI-211/ai211.py)
+- [Documentation](AI-211/AI211%20Problem%20Set%20Documentation.pdf)
 
 ---
 
