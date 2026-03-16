@@ -11,6 +11,8 @@ Hello! Welcome to this repository where I share my personal experiences, opinion
   - [AI 221 - Classical Machine Learning](#ai-221---classical-machine-learning)
   - [AI 222 - Advanced Machine Learning](#ai-222---advanced-machine-learning)
   - [AI 231 - Machine Learning Operations](#ai-231---machine-learning-operations)
+  - [AI 296 - Graduate Seminar](#ai-296---graduate-seminar)
+  - [AI 299 - Capstone Project](#ai-299---capstone-project)
 - [Foundational and Elective Courses](#foundational-and-elective-courses)
   - [ES 204 - Numerical Methods for Engineering](#es-204---numerical-methods-for-engineering)
   - [IE 211 - Quantitative Methods for Engineering](#ie-211---quantitative-methods-for-engineering)
@@ -33,7 +35,7 @@ The courses below are those required by the program to take. While it is advised
 
 This course (the name of which can be quite deceiving) is considered by many to be the "weeder course" of the AI program, as a large percentage of students drop out mid-semester. The curriculum provides a significant level of depth, helping students understand the various branches under the umbrella of Artificial Intelligence. While a large chunk of the course is dedicated to introducing machine learning, it also tackles topics outside that scope, such as search methods and constraint satisfaction.
 
-The bulk of the course involves implementing methods from scratch through programming assignments, a few exams, and a mini-project. The assignments are difficult because we have to implement machine learning algorithms, such as a multilayer perceptron, using only `NumPy`! Each assignment usually takes me a week or two to code, and we also need to document the results using a conference-level LaTeX paper template. I’m not going to lie, though, getting it all to work without using popular Python libraries like PyTorch or TensorFlow is so satisfying! Of course, the training process took a long time since it was written solely in NumPy without any GPU or AI accelerators involved. :(
+The bulk of the course involves implementing methods from scratch through programming assignments, a few exams, and a mini-project. The assignments are difficult because we have to implement machine learning algorithms, such as a multilayer perceptron, using only `NumPy`! Each assignment usually takes me a week or two to code, and we also need to document the results using a conference-level LaTeX paper template. I’m not going to lie, though, getting it all to work without using popular Python libraries like `PyTorch` or `TensorFlow` is so satisfying! Of course, the training process took a long time since it was written solely in `NumPy` without any GPU or AI accelerators involved. :(
 
 The exams here are also very difficult. One of the most memorable parts of the exam was when we were asked to derive the backpropagation algorithm. Our professor always emphasizes that this is one of the most important things that we must know by heart as an AI student. This ensures that "AI" is not just a buzzword to us, but is something that we actually understand at a granular level.
 
@@ -169,6 +171,36 @@ The main challenge was ensuring the system's accuracy and efficiency. A delay in
 **Machine Exercises**
 
 - TBA
+
+---
+
+### AI 296 - Graduate Seminar
+
+*Description placeholder*
+
+**Topics covered:**
+
+- Topic 1
+- Topic 2
+
+**Notebooks / Outputs:**
+
+- TBD
+
+---
+
+### AI 299 - Capstone Project
+
+*Description placeholder*
+
+**Topics covered:**
+
+- Topic 1
+- Topic 2
+
+**Notebooks / Outputs:**
+
+- TBD
 
 ---
 
