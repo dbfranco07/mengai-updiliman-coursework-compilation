@@ -32,7 +32,7 @@ The courses below are those required by the program to take. While it is advised
 
 This course (the name of which can be quite deceiving) is considered by many to be the "weeder course" of the AI program, as a large percentage of students drop out mid-semester. The curriculum provides a significant level of depth, helping students understand the various branches under the umbrella of Artificial Intelligence. While a large chunk of the course is dedicated to introducing machine learning, it also tackles topics outside that scope, such as search methods and constraint satisfaction.
 
-The bulk of the course involves implementing methods from scratch through programming assignments, a few exams, and a mini-project. The assignments are difficult because we have to implement machine learning algorithms, such as a multilayer perceptron, using only NumPy! Each assignment usually takes me a week or two to code, and we also need to document the results using a conference-level LaTeX paper template. I’m not going to lie, though, getting it all to work without using popular Python libraries like PyTorch or TensorFlow is so satisfying! Of course, the training process took a long time since it was written solely in NumPy without any GPU or AI accelerators involved. :(
+The bulk of the course involves implementing methods from scratch through programming assignments, a few exams, and a mini-project. The assignments are difficult because we have to implement machine learning algorithms, such as a multilayer perceptron, using only `NumPy`! Each assignment usually takes me a week or two to code, and we also need to document the results using a conference-level LaTeX paper template. I’m not going to lie, though, getting it all to work without using popular Python libraries like PyTorch or TensorFlow is so satisfying! Of course, the training process took a long time since it was written solely in NumPy without any GPU or AI accelerators involved. :(
 
 The exams here are also very difficult. One of the most memorable parts of the exam was when we were asked to derive the backpropagation algorithm. Our professor always emphasizes that this is one of the most important things that we must know by heart as an AI student. This ensures that "AI" is not just a buzzword to us, but is something that we actually understand at a granular level.
 
@@ -98,7 +98,7 @@ The approach of this course is genuinely demanding. While it provides a vital fo
 
 When I was taking this class, I wasn't enrolled in any other courses (aside from my full-time job, of course), so I was able to spend more time on it compared to the others. This was also the first course I took that didn't have any long exams or quizzes. Our grades relied purely on machine exercises (though we had one every week), a final project, and a paper review. Because of this, I didn't need to spend time memorizing a lot of information overnight—yup, I do tend to cram, lol—I just needed to implement the lessons using code and actual data.
 
-While implementing machine learning algorithms was nothing new, this was the first time we were allowed to use programming libraries (especially Scikit-Learn) other than bare-bones NumPy. Gosh, that was such a relief! It made the training part much more efficient since (1) Scikit-Learn is already robustly tested for efficiency, and (2) we didn't need to prototype the training code from scratch; we just needed to call the .fit() method.
+While implementing machine learning algorithms was nothing new, this was the first time we were allowed to use programming libraries (especially `Scikit-Learn`) other than bare-bones `NumPy`. Gosh, that was such a relief! It made the training part much more efficient since (1) `Scikit-Learn` is already robustly tested for efficiency, and (2) we didn't need to prototype the training code from scratch; we just needed to call the .fit() method.
 
 The way the class worked was that we would study a certain algorithm (or group of algorithms), apply them to data provided by our professor, and then evaluate the results. The goal was to familiarize ourselves with different models and experiment with them. Of course, we also tackled necessary techniques like train-test splitting, cross-validation, hyperparameter tuning, and watching out for signs of overfitting. At the end of the semester, the final project was to find our own data and perform machine learning experiments on it using everything we had learned in the course.
 
@@ -114,37 +114,47 @@ The way the class worked was that we would study a certain algorithm (or group o
 
 ### AI 222 - Advanced Machine Learning
 
-*Description placeholder*
+This was the course I found to be the hardest. Previously, it was called the "Deep Learning" class, but due to the fast-paced nature of AI research, our professor renamed it "Advanced Machine Learning" to cover topics outside the deep learning spectrum. We still deeply explored MLPs, CNNs, RNNs, and Transformers, but we also discussed topics such as generative models (e.g. GANs, VAEs, Flow Matching, Diffusion models, etc.), LLMs, and AI agents. Essentially, we tried to cover most of the state-of-the-art topics. Our professor even shared that he created his own agent framework since modern frameworks such as LangChain do not meet his intended requirements. I think that really sounds so cool!
+
+The course was designed to be purely theoretical; we didn't have anything to code. The programming side was handled in the AI 231 course, which was taught by the same professor. In fact, it’s an unwritten rule that AI 222 and AI 231 are "corequisites" and should be taken in the same semester. AI 222 provides the theory, while AI 231 handles the application.
+
+Don't let the theoretical design of the course lead you to believe it’s easy. In fact, that's exactly what made it so difficult. Our grades were based exclusively on three long exams and a small percentage for attendance (I think attendance was around 5%). A handful of students actually failed due to the difficulty! I was quite anxious after my first exam score was only a 69/100, lol. Thankfully, I scored 95/100 on the next one, which allowed me to breathe much more easily. However, I failed the last exam with a 55/100 because I got somewhat confused. Nonetheless, I was happy just to pass the course.
+
+You might wonder what made the exams so difficult. Our professor designed them to be intentionally confusing to test if we truly understood the concepts or if we were just memorizing the lessons and "overfitting." Overall, it was a fun course and the one that really brought me in sync with the current state of Artificial Intelligence.
 
 **Topics covered:**
 
-- Topic 1
-- Topic 2
+- MLP, CNN, RNN, Transformers, detection and segmentation, generative models, LLM, AI agents, etc.
 
-**Notebooks / Outputs:**
+**Outputs:**
 
-- TBD
+- None. Only 3 VERY difficult exams.
 
 ---
 
 ### AI 231 - Machine Learning Operations
 
-*Description placeholder*
+This course tackles the same material taught in AI 222 but focuses heavily on the coding side. The main framework suggested to us was `PyTorch` for training. Our professor actually authored a book using `TensorFlow` and `Keras`, but he mentioned that nowadays they are too "painful" to use and he prefers to stick to `PyTorch`.
+
+This class was a complete 180 from AI 222; there were no exams at all, only machine exercises. The first few exercises were easy enough that we could complete them quite quickly. They involved using tools like `einsum` and `einops` for their elegance, implementing `AlexNet` using only `NumPy`, learning how to use pretrained models, and training `YOLO` models using our own custom datasets.
+
+The next few exercises shifted our focus to edge devices, specifically the Jetson Orin Nano. What made it more challenging was that we had to go to campus to develop since we couldn't bring the Jetsons home. We learned how to flash and boot the devices, write our own services, and—the juiciest part of the course—create a Point of Sale (POS) system using our trained `YOLO` model, running solely on the Jetson Orin Nano. This system uses the `YOLO` model to identify grocery items and register them properly. It’s essentially what you see in modern grocery stores, except it uses computer vision instead of barcodes.
+
+The main challenge was ensuring the system's accuracy and efficiency. A delay in inference meant losing points, and an inaccurate prediction also resulted in point deductions. On top of that, we had to create a web UI (though honestly, thanks to modern AI like ChatGPT for helping with that part!). Our professor even encouraged us to use AI as an assistant, as long as we made sure to understand the code and didn't just accept everything blindly.
 
 **Topics covered:**
 
-- Topic 1
-- Topic 2
+- Coding tools, frameworks, and libraries, deployment, model serving, etc.
 
-**Notebooks / Outputs:**
+**Machine Exercises**
 
-- TBD
+- TBA
 
 ---
 
 ## Foundational and Elective Courses
 
-So while every MEng AI student should take the same required courses, the foundational and elective courses may vary for other students. In my case, I took on ES IE 211 and ES 204 as my foundational courses and then AI 361 and CS 282 as my electives. While AI 361 is actually a core course for PhD students, I was allowed by my adviser to take it as an elective.
+While every MEng AI student takes the same required core courses, the foundational and elective subjects can vary. In my case, I chose IE 211 and ES 204 as my foundational courses, and AI 361 and CS 282 as my electives. Although AI 361 is actually a core course for PhD students, my adviser allowed me to take it as an elective.
 
 ### ES 204 - Numerical Methods for Engineering
 
