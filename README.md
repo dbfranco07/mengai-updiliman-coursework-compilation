@@ -4,13 +4,14 @@ Hello! Welcome to this repository where I share my personal experiences, opinion
 
 ## Table of Contents
 - [Background](#background)
-- [Courses](#courses)
+- [Core Courses](#core-courses)
   - [AI 201 - Fundamentals of Artificial Intelligence](#ai-201---fundamentals-of-artificial-intelligence)
   - [AI 211 - Computational Linear Algebra for AI](#ai-211---computational-linear-algebra-for-ai)
   - [AI 212 - Probability and Statistics for AI](#ai-212---probability-and-statistics-for-ai)
   - [AI 221 - Classical Machine Learning](#ai-221---classical-machine-learning)
   - [AI 222 - Advanced Machine Learning](#ai-222---advanced-machine-learning)
   - [AI 231 - Machine Learning Operations](#ai-231---machine-learning-operations)
+- [Foundational and Elective Courses](#foundational-and-elective-courses)
   - [ES 204 - Numerical Methods for Engineering](#es-204---numerical-methods-for-engineering)
   - [IE 211 - Quantitative Methods for Engineering](#ie-211---quantitative-methods-for-engineering)
   - [AI 361 - Autonomous Robots](#ai-361---autonomous-robots)
@@ -21,9 +22,11 @@ Hello! Welcome to this repository where I share my personal experiences, opinion
 
 ## Background
 
-Just to share with everyone, my undergraduate background is aeronautical engineering and has never written any production-level codes. Prior to enrolling to the program, my AI and machine learning experience is very minimal and can be considered to be negligible. However, as I go through the difference courses and collaborate with my fellow students, I am able to gain invaluable knowledge that is relevent to the development of AI.
+Just to share some context with everyone: my undergraduate background is in Aeronautical Engineering, and I had never written any production-level code before this. Prior to enrolling in the program, my experience with AI and machine learning was very minimal—essentially negligible. However, as I’ve progressed through the different courses and collaborated with my fellow students, I have been able to gain invaluable knowledge relevant to the development of AI.
 
-## Courses
+## Core Courses
+
+The courses below are those required by the program to take. While it is advised to take them in order based on the course code, it is not a necessary.
 
 ### AI 201 - Fundamentals of Artificial Intelligence
 
@@ -41,7 +44,7 @@ I would say this is one of those courses that truly tests how much you want to b
 - Basic Computer Science Concepts and introduction to machine learning.
 
 
-**Outputs/Programming Assignments:**
+**Programming Assignments:**
 
 - Programming Assignment 1 - Implementing the A* Algorithm
 - Programming Assignment 2 - Naive Bayes Spam Filter
@@ -64,9 +67,9 @@ The problem sets were also difficult but actually fun. They required us to write
 
 -  Matrix operations, matrix decompositions, vector calculus, applications in machine learning, etc.
 
-**Outputs:**
+**Problem Set:**
 
-- Problem Set
+- TBA
 
 ---
 
@@ -85,24 +88,27 @@ The approach of this course is genuinely demanding. While it provides a vital fo
 
 - Probability, random variables, density and mass functions, statistical inference, bayesian inference, markov chain monte carlo, etc.
 
-**Notebooks / Outputs:**
+**Problem Set:**
 
-- TBD
+- TBA
 
 ---
 
 ### AI 221 - Classical Machine Learning
 
-*Description placeholder*
+When I was taking this class, I wasn't enrolled in any other courses (aside from my full-time job, of course), so I was able to spend more time on it compared to the others. This was also the first course I took that didn't have any long exams or quizzes. Our grades relied purely on machine exercises (though we had one every week), a final project, and a paper review. Because of this, I didn't need to spend time memorizing a lot of information overnight—yup, I do tend to cram, lol—I just needed to implement the lessons using code and actual data.
+
+While implementing machine learning algorithms was nothing new, this was the first time we were allowed to use programming libraries (especially Scikit-Learn) other than bare-bones NumPy. Gosh, that was such a relief! It made the training part much more efficient since (1) Scikit-Learn is already robustly tested for efficiency, and (2) we didn't need to prototype the training code from scratch; we just needed to call the .fit() method.
+
+The way the class worked was that we would study a certain algorithm (or group of algorithms), apply them to data provided by our professor, and then evaluate the results. The goal was to familiarize ourselves with different models and experiment with them. Of course, we also tackled necessary techniques like train-test splitting, cross-validation, hyperparameter tuning, and watching out for signs of overfitting. At the end of the semester, the final project was to find our own data and perform machine learning experiments on it using everything we had learned in the course.
 
 **Topics covered:**
 
-- Topic 1
-- Topic 2
+- Exploratory data analysis and different machine learning algorithms such as linear models, SVM, MLP, tree-based models, ensemble methods, and explainability.
 
-**Notebooks / Outputs:**
+**Machine Exercises:**
 
-- TBD
+- TBA
 
 ---
 
@@ -135,6 +141,10 @@ The approach of this course is genuinely demanding. While it provides a vital fo
 - TBD
 
 ---
+
+## Foundational and Elective Courses
+
+So while every MEng AI student should take the same required courses, the foundational and elective courses may vary for other students. In my case, I took on ES IE 211 and ES 204 as my foundational courses and then AI 361 and CS 282 as my electives. While AI 361 is actually a core course for PhD students, I was allowed by my adviser to take it as an elective.
 
 ### ES 204 - Numerical Methods for Engineering
 
