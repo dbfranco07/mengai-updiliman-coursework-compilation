@@ -130,7 +130,22 @@ The way the class worked was that we would study a certain algorithm (or group o
 
 **Machine Exercises:**
 
-- TBA
+- Machine Exercises
+  - ME 1 (Quiz only)
+  - [ME 2 - Wine Quality - Exploratory Data Analysis](AI-221/notebooks/MachineExercise2_WineQuality_EDA.ipynb)
+  - [ME 3 - Wine Quality - Linear Models](AI-221/notebooks/MachineExercise3_WineQuality_LinearModels.ipynb)
+  - [ME 4 - Wine Quality - Support Vector Regression](AI-221/notebooks/MachineExercise4_WineQuality_SVR.ipynb)
+  - [ME 5 - Car Evaluation - Cross-Validation](AI-221/notebooks/MachineExercise5_CarEvaluation_CrossValidation.ipynb)
+  - [ME 6 - Student Dropout - Linear Dimension Reduction](AI-221/notebooks/MachineExercise6_StudentDropoutSuccessPredict_LinearDimReduce.ipynb)
+  - [ME 7 - Student Dropout - Non-Linear Dimension Reduction](AI-221/notebooks/MachineExercise7_StudentDropoutSuccessPredict_NonLinearDimReduce.ipynb)
+  - [ME 8 - Wine Quality - Clustering](AI-221/notebooks/MachineExercise8_WineQuality_Clustering.ipynb)
+  - [ME 9 - Student Dropout - Weak Learners](AI-221/notebooks/MachineExercise9_StudentDropoutSuccessPredict_WeakLearners.ipynb)
+  - [ME 10 - Human Activity Recognition - Neural Networks](AI-221/notebooks/MachineExercise10_HumanActivityRecognition_NeuralNetworks.ipynb)
+  - [ME 11-12 - Student Dropout - AutoML and XAI](AI-221/notebooks/MachineExercise1112_StudentDropoutSuccessPredict_AutoMLXAI.ipynb)
+- Team Project
+  - [Notebook](AI-221/notebooks/AI221-Team-Project.ipynb)
+  - [Paper](AI-221/paper/AI221%20-%20Manuscript.pdf)
+  - [Graphic](AI-221/assets/AI221%20-%20Graphical%20Abstract.png)
 
 ---
 
