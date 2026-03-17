@@ -225,16 +225,18 @@ While every MEng AI student takes the same required core courses, the foundation
 
 ### ES 204 - Numerical Methods for Engineering
 
-*Description placeholder*
+TBA
 
 **Topics covered:**
 
-- Topic 1
-- Topic 2
+- Numerical solutions for systems of linear equations, systems of nonlinear equations, interpolation vs regression, numerical integration, initial and boundary value problems for ordinary (and some partial) differential equations.
 
-**Notebooks / Outputs:**
+**Problem Set**
 
-- TBD
+- [Problem Set 1 - Normal day in MMDA.](ES-204/day_in_mmda.ipynb)
+- [Problem Set 2 - It's totally normal! If the sample fits.](ES-204/totally_normal.ipynb)
+- [Problem Set 3 - It's actually actuary.](ES-204/actuary_actually.ipynb)
+- [Problem Set 4 - Projectile motion with air resistance.](ES-204/projectile_motion.ipynb)
 
 ---
 
