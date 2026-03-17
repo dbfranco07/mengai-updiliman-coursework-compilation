@@ -107,12 +107,12 @@ The approach of this course is genuinely demanding. While it provides a vital fo
 **Problem Set:**
 
 - Problem Set 1 (Group)
-  - [Problem 1 Notebook](AI-212/notebooks/AI212_S2_Problem_1.ipynb)
-  - [Problem 2 Notebook](AI-212/notebooks/AI212_S2_Problem_2.ipynb)
-  - [Problem 3 Notebook](AI-212/notebooks/AI212_S2_Problem_3.ipynb)
-  - [Problem 4 Notebook](AI-212/notebooks/AI212_S2_Problem_4.ipynb)
+  - [Problem 1 Notebook](AI-212/AI212_S2_Problem_1.ipynb)
+  - [Problem 2 Notebook](AI-212/AI212_S2_Problem_2.ipynb)
+  - [Problem 3 Notebook](AI-212/AI212_S2_Problem_3.ipynb)
+  - [Problem 4 Notebook](AI-212/AI212_S2_Problem_4.ipynb)
 - Problem Set 2 (Solo)
-  - [Problem Notebook](AI-212/notebooks/ai212_probset.ipynb)
+  - [Problem Notebook](AI-212/ai212_probset.ipynb)
 
 ---
 
