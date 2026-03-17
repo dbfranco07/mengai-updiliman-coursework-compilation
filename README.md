@@ -47,7 +47,7 @@ I would say this is one of those courses that truly tests how much you want to b
 - Basic Computer Science Concepts and introduction to machine learning.
 
 
-**Programming Assignments:**  
+**Outputs:**  
 Note: I did not get perfect scores here. I had a few mistakes on each assignment (maybe around 5-10 deducted points) so read with a grain of salt.
 - Programming Assignment 1 - Implementing the A* Algorithm
   - [Notebook](AI-201/notebooks/a_star_implementation.ipynb)
@@ -81,7 +81,7 @@ The problem sets were also difficult but actually fun. They required us to write
 
 -  Matrix operations, matrix decompositions, vector calculus, applications in machine learning, etc.
 
-**Problem Set:**
+**Outputs:**
 
 - [Notebook](AI-211/AI211_probset.ipynb)
 - [Source/Reference Code](AI-211/ai211.py)
@@ -104,7 +104,7 @@ The approach of this course is genuinely demanding. While it provides a vital fo
 
 - Probability, random variables, density and mass functions, statistical inference, bayesian inference, markov chain monte carlo, etc.
 
-**Problem Set:**
+**Outputs:**
 
 - Problem Set 1 (Group)
   - [Problem 1 Notebook](AI-212/AI212_S2_Problem_1.ipynb)
@@ -128,7 +128,7 @@ The way the class worked was that we would study a certain algorithm (or group o
 
 - Exploratory data analysis and different machine learning algorithms such as linear models, SVM, MLP, tree-based models, ensemble methods, and explainability.
 
-**Machine Exercises:**
+**Outputs:**
 
 - Machine Exercises
   - ME 1 (Quiz only)
@@ -183,9 +183,12 @@ The main challenge was ensuring the system's accuracy and efficiency. A delay in
 
 - Coding tools, frameworks, and libraries, deployment, model serving, etc.
 
-**Machine Exercises**
+**Outputs:**
 
-- TBA
+- [AlexNet Numpy Implementation](AI-231/alexnet-numpy-implementation.ipynb)
+- [Pruned ResNet](AI-231/pruned-resnet18-v2.ipynb)
+- [YOLO Object Detection](AI-231/object_detection_final.ipynb)
+- [Grocery Point of Sale](https://github.com/dbfranco07/fakegold)
 
 ---
 
@@ -198,7 +201,7 @@ The main challenge was ensuring the system's accuracy and efficiency. A delay in
 - Topic 1
 - Topic 2
 
-**Notebooks / Outputs:**
+**Outputs:**
 
 - TBD
 
@@ -213,7 +216,7 @@ The main challenge was ensuring the system's accuracy and efficiency. A delay in
 - Topic 1
 - Topic 2
 
-**Notebooks / Outputs:**
+**Outputs:**
 
 - TBD
 
@@ -231,7 +234,7 @@ TBA
 
 - Numerical solutions for systems of linear equations, systems of nonlinear equations, interpolation vs regression, numerical integration, initial and boundary value problems for ordinary (and some partial) differential equations.
 
-**Problem Set**
+**Outputs:**
 
 - [Problem Set 1 - Normal day in MMDA.](ES-204/day_in_mmda.ipynb)
 - [Problem Set 2 - It's totally normal! If the sample fits.](ES-204/totally_normal.ipynb)
@@ -249,7 +252,7 @@ TBA
 - Topic 1
 - Topic 2
 
-**Notebooks / Outputs:**
+**Outputs:**
 
 - TBD
 
@@ -264,9 +267,11 @@ TBA
 - Topic 1
 - Topic 2
 
-**Notebooks / Outputs:**
+**Outputs:**
 
-- TBD
+- Machine Exercise 1
+- Machine Exercise 2
+- Machine Exercise 3
 
 ---
 
@@ -279,9 +284,14 @@ TBA
 - Topic 1
 - Topic 2
 
-**Notebooks / Outputs:**
+**Outputs:**
 
-- TBD
+- Programming Assignment 1
+  -
+- Programming Assignment 2
+- Programming Assignment 3
+- Programming Assignment 4
+- Mini-Project
 
 ---
 
