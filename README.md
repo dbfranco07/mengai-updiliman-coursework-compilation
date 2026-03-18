@@ -228,7 +228,11 @@ While every MEng AI student takes the same required core courses, the foundation
 
 ### ES 204 - Numerical Methods for Engineering
 
-TBA
+This course has quite a few similarities with AI 211, especially in the first few lessons. This could probably be due to the fact that I had the same professor. Basically, that is what the structure of the course—especially the long exams, journals, and problem sets—looked like. The course was nice since we tackled topics that help us provide solutions to problems where classical analytical methods are difficult or impossible to apply.
+
+Since it’s a foundational course, there was not much AI or ML involved. Most of the time, we tackled the theories with some demonstrations of numerical methods in Matlab. I don't have any significant experience in Matlab, though, so I just pretended to understand; at least I kind of tried to understand the high-level approach LOL. But the good thing is that our professor accepts both Python and Matlab submissions for our problem sets.
+
+So, despite the lack of an explicit connection to AI or ML (though we did have quite a few discussions regarding regression), it is still a good course, especially for those coming from engineering backgrounds. I did have some experience in Finite Element Analysis (FEA), so the boundary value problems regarding partial differential equations were quite interesting, if you ask me.
 
 **Topics covered:**
 
@@ -245,22 +249,23 @@ TBA
 
 ### IE 211 - Quantitative Methods for Engineering
 
-*Description placeholder*
+This course is essentially similar to AI 212—the probability and statistics course for AI. The first half tackled probability and the second half was about statistics, obviously. However, the approach here is quite similar to how it is introduced during high school or undergrad. We were given a high-level view of the theory and sample problems, and then we practiced them. So, it acts as a review for graduate students who haven't touched probability and statistics for a long time. We also used Matlab here for demonstrations of computations.
+
+In this class, we only had exams as our source of grades. However, unlike AI 222 where the long exams were killers, the exams here were not really difficult (although I did make many mistakes). So yeah, not much to say. Since the course is open to all engineering backgrounds (most especially industrial engineers), not much connection to AI or ML was emphasized; it was more of a general use case.
 
 **Topics covered:**
 
-- Topic 1
-- Topic 2
+- Probability foundations, descriptive and inferential statistics, design of experiments, regression analysis, etc.
 
 **Outputs:**
 
-- TBD
+- None. Only 3 long exams.
 
 ---
 
 ### AI 361 - Autonomous Robots
 
-*Description placeholder — Ongoing*
+Ongoing. For now, what I can say is this is demanding in terms of effort and time. Nonetheless, fulfilling if I can make it work. Will update once done.
 
 **Topics covered:**
 
@@ -277,7 +282,7 @@ TBA
 
 ### CS 282 - Computer Vision
 
-*Description placeholder — Ongoing*
+Ongoing. Will update once done.
 
 **Topics covered:**
 
