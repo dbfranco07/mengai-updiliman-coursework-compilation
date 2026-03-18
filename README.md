@@ -268,8 +268,7 @@ Ongoing. For now, what I can say is this is demanding in terms of effort and tim
 
 **Topics covered:**
 
-- Topic 1
-- Topic 2
+- ROS2, turtlebot3, etc.
 
 **Outputs:**
 
@@ -285,14 +284,14 @@ Ongoing. Will update once done.
 
 **Topics covered:**
 
-- Topic 1
-- Topic 2
+- Image processing, classical methods, and deep learning methods.
 
 **Outputs:**
 
-- Programming Assignment 1
-  -
-- Programming Assignment 2
+- Programming Assignment 1 - OpenCV Exercises
+  - [Notebook](CS-282/pa1-image_enhancement.ipynb)
+- Programming Assignment 2 - Image Stitching
+  - [Notebook](CS-282/pa2-image_stitching.ipynb)
 - Programming Assignment 3
 - Programming Assignment 4
 - Mini-Project
