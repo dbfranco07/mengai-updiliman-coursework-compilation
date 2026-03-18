@@ -194,12 +194,11 @@ The main challenge was ensuring the system's accuracy and efficiency. A delay in
 
 ### AI 296 - Graduate Seminar
 
-*Description placeholder*
+To be added. I actually got a grade of incomplete (INC) here HAHAHA. The goal here is actually to prepare your capstone project. Unfortunately, I am still exploring for my topic.
 
 **Topics covered:**
 
-- Topic 1
-- Topic 2
+- None. More on exploration and preparing capstone project topic.
 
 **Outputs:**
 
@@ -209,7 +208,7 @@ The main challenge was ensuring the system's accuracy and efficiency. A delay in
 
 ### AI 299 - Capstone Project
 
-*Description placeholder*
+Not yet taken. Hopefully next semester.
 
 **Topics covered:**
 
